@@ -1,0 +1,15 @@
+/* Your banner CSS code here */
+.main-banner{
+    height: 100%;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.banner-content{
+    color: white;
+}
